@@ -8,6 +8,8 @@ yesBtn.addEventListener("click", function() {
         <h2>Yeheyyy I LOVE YOU SO MUCH BEBIII !!! 💕</h2>
         <p>WALA NANG ATRASAN TO ❤️</p>
         <p>THANKYOU BEBIII!</p>
+        
+        <img src="bebii.jpg" class="love-photo" alt="Us together 💖">
     `;
     startHearts();
 });
@@ -52,3 +54,4 @@ function createHeart() {
         heart.remove();
     }, 4000);
 }
+
